@@ -8,7 +8,12 @@ sites:
     owner: bcgov-registries
     repo: ops-support
     labels: ['OPS', 'High Priority']
-
+  - name: legal-api
+    url: https://legal-api.apps.silver.devops.gov.bc.ca/ops/healthz
+    owner: bcgov-registries
+    repo: ops-support
+    labels: ['OPS', 'High Priority']
+    
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
