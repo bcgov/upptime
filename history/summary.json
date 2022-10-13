@@ -52,5 +52,23 @@
     "timeMonth": 335,
     "timeYear": 335,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "pay-api",
+    "url": "https://pay-api.apps.silver.devops.gov.bc.ca/ops/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/pay-api.apps.silver.devops.gov.bc.ca.ico",
+    "slug": "pay-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 176,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {}
   }
 ]
