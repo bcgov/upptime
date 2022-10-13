@@ -13,6 +13,11 @@ sites:
     owner: bcgov-registries
     repo: ops-support
     labels: ['OPS', 'High Priority']
+  - name: auth-api
+    url: https://auth-api.apps.silver.devops.gov.bc.ca/ops/healthz
+    owner: bcgov-registries
+    repo: ops-support
+    labels: ['OPS', 'High Priority']   
     
 status-website:
   baseUrl: /upptime
