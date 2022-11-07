@@ -22,18 +22,20 @@
     "url": "https://legal-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/legal-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "legal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 313,
-    "timeWeek": 376,
-    "timeMonth": 322,
-    "timeYear": 322,
-    "dailyMinutesDown": {}
+    "time": 321,
+    "timeDay": 302,
+    "timeWeek": 366,
+    "timeMonth": 321,
+    "timeYear": 321,
+    "dailyMinutesDown": {
+      "2022-11-07": 0
+    }
   },
   {
     "name": "auth-api",
@@ -60,8 +62,8 @@
     "slug": "pay-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
@@ -69,9 +71,7 @@
     "timeWeek": 346,
     "timeMonth": 303,
     "timeYear": 303,
-    "dailyMinutesDown": {
-      "2022-11-07": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "test-route",
@@ -81,7 +81,7 @@
     "status": "down",
     "uptime": "55.56%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "20.10%",
+    "uptimeWeek": "20.09%",
     "uptimeMonth": "55.56%",
     "uptimeYear": "55.56%",
     "time": 328,
@@ -90,7 +90,7 @@
     "timeMonth": 328,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2022-11-07": 505,
+      "2022-11-07": 506,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
