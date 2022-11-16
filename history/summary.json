@@ -22,10 +22,10 @@
     "url": "https://legal-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/legal-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "legal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
@@ -33,7 +33,9 @@
     "timeWeek": 274,
     "timeMonth": 304,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-16": 1
+    }
   },
   {
     "name": "auth-api",
@@ -58,10 +60,10 @@
     "url": "https://pay-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/pay-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "pay-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
@@ -69,7 +71,9 @@
     "timeWeek": 278,
     "timeMonth": 303,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-16": 1
+    }
   },
   {
     "name": "test-route",
@@ -77,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hello-world-nginx-f2b77c-tools.apps.silver.devops.gov.bc.ca.ico",
     "slug": "test-route",
     "status": "down",
-    "uptime": "32.87%",
+    "uptime": "32.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.87%",
-    "uptimeYear": "32.87%",
+    "uptimeMonth": "32.62%",
+    "uptimeYear": "32.62%",
     "time": 318,
     "timeDay": 364,
     "timeWeek": 286,
     "timeMonth": 318,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-11-16": 59,
+      "2022-11-16": 297,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
