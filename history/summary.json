@@ -4,19 +4,19 @@
     "url": "https://namex.apps.silver.devops.gov.bc.ca/api/v1/nr-ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/namex.apps.silver.devops.gov.bc.ca.ico",
     "slug": "namex-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 145,
-    "timeWeek": 281,
-    "timeMonth": 283,
-    "timeYear": 297,
+    "time": 295,
+    "timeDay": 140,
+    "timeWeek": 263,
+    "timeMonth": 278,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-01-23": 0
+      "2023-01-23": 2
     }
   },
   {
