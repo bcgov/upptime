@@ -1,7 +1,7 @@
 url: https://pay-api.apps.silver.devops.gov.bc.ca/ops/healthz
 status: up
 code: 200
-responseTime: 262
-lastUpdated: 2023-01-23T23:13:27.976Z
+responseTime: 204
+lastUpdated: 2023-01-24T23:13:35.444Z
 startTime: Thu Oct 13 2022 17:29:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
