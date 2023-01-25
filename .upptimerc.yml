@@ -23,11 +23,11 @@ sites:
     owner: bcgov-registries
     repo: ops-support
     labels: ['OPS', 'High Priority']
-  - name: test-route
-    url: https://hello-world-nginx-f2b77c-tools.apps.silver.devops.gov.bc.ca/
-    owner: bolyachevets
-    repo: PHP-Plugin-WordPress-Custom-Form
-    labels: ['OPS']
+#   - name: test-route
+#     url: https://hello-world-nginx-f2b77c-tools.apps.silver.devops.gov.bc.ca/
+#     owner: bolyachevets
+#     repo: PHP-Plugin-WordPress-Custom-Form
+#     labels: ['OPS']
     
 status-website:
   baseUrl: /upptime
