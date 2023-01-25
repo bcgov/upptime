@@ -6,7 +6,7 @@
     "slug": "namex-api",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "1.91%",
     "uptimeWeek": "79.08%",
     "uptimeMonth": "95.19%",
     "uptimeYear": "98.60%",
@@ -26,11 +26,11 @@
     "url": "https://legal-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/legal-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "legal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 253,
@@ -38,7 +38,7 @@
     "timeMonth": 284,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2023-01-25": 3
+      "2023-01-25": 1
     }
   },
   {
@@ -48,28 +48,26 @@
     "slug": "auth-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 176,
     "timeWeek": 247,
     "timeMonth": 283,
     "timeYear": 284,
-    "dailyMinutesDown": {
-      "2023-01-25": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pay-api",
     "url": "https://pay-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/pay-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "pay-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
@@ -78,7 +76,7 @@
     "timeMonth": 274,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2023-01-25": 2
+      "2023-01-25": 1
     }
   },
   {
@@ -98,7 +96,7 @@
     "timeMonth": 266,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2023-01-25": 469,
+      "2023-01-25": 496,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
