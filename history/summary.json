@@ -6,7 +6,7 @@
     "slug": "namex-api",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "1.91%",
+    "uptimeDay": "2.10%",
     "uptimeWeek": "79.08%",
     "uptimeMonth": "95.19%",
     "uptimeYear": "98.60%",
@@ -26,19 +26,19 @@
     "url": "https://legal-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/legal-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "legal-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 253,
-    "timeWeek": 240,
-    "timeMonth": 284,
-    "timeYear": 285,
+    "time": 283,
+    "timeDay": 234,
+    "timeWeek": 233,
+    "timeMonth": 281,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 3
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://pay-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/pay-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "pay-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 170,
-    "timeWeek": 245,
-    "timeMonth": 274,
-    "timeYear": 278,
+    "time": 277,
+    "timeDay": 160,
+    "timeWeek": 233,
+    "timeMonth": 269,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 3
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 266,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2023-01-25": 496,
+      "2023-01-25": 499,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
