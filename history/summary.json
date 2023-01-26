@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/namex.apps.silver.devops.gov.bc.ca.ico",
     "slug": "namex-api",
     "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "44.74%",
-    "uptimeWeek": "78.45%",
-    "uptimeMonth": "95.04%",
-    "uptimeYear": "98.56%",
-    "time": 294,
-    "timeDay": 279,
-    "timeWeek": 261,
-    "timeMonth": 273,
-    "timeYear": 294,
+    "uptime": "98.57%",
+    "uptimeDay": "66.75%",
+    "uptimeWeek": "78.48%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "98.57%",
+    "time": 293,
+    "timeDay": 273,
+    "timeWeek": 242,
+    "timeMonth": 269,
+    "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-01-25": 532,
+      "2023-01-25": 529,
       "2023-01-24": 1440,
       "2023-01-23": 200
     }
@@ -32,11 +32,11 @@
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
-    "time": 361,
-    "timeDay": 1178,
-    "timeWeek": 823,
-    "timeMonth": 511,
-    "timeYear": 361,
+    "time": 359,
+    "timeDay": 1394,
+    "timeWeek": 817,
+    "timeMonth": 503,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2023-01-25": 60
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
-    "time": 283,
-    "timeDay": 223,
-    "timeWeek": 249,
-    "timeMonth": 281,
-    "timeYear": 283,
+    "time": 282,
+    "timeDay": 222,
+    "timeWeek": 233,
+    "timeMonth": 278,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2023-01-25": 87
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
-    "time": 372,
+    "time": 371,
     "timeDay": 1647,
-    "timeWeek": 1057,
-    "timeMonth": 568,
-    "timeYear": 372,
+    "timeWeek": 1032,
+    "timeMonth": 566,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2023-01-25": 59
     }
