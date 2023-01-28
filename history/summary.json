@@ -11,9 +11,9 @@
     "uptimeMonth": "95.05%",
     "uptimeYear": "98.59%",
     "time": 292,
-    "timeDay": 150,
-    "timeWeek": 242,
-    "timeMonth": 268,
+    "timeDay": 337,
+    "timeWeek": 239,
+    "timeMonth": 272,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2023-01-25": 529,
@@ -28,17 +28,16 @@
     "slug": "legal-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
-    "time": 363,
-    "timeDay": 506,
-    "timeWeek": 802,
-    "timeMonth": 511,
-    "timeYear": 363,
+    "time": 362,
+    "timeDay": 561,
+    "timeWeek": 805,
+    "timeMonth": 510,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2023-01-27": 1,
       "2023-01-25": 60
     }
   },
@@ -53,11 +52,11 @@
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.94%",
-    "time": 281,
-    "timeDay": 151,
-    "timeWeek": 232,
-    "timeMonth": 278,
-    "timeYear": 281,
+    "time": 282,
+    "timeDay": 320,
+    "timeWeek": 233,
+    "timeMonth": 281,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2023-01-25": 87
     }
@@ -74,9 +73,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
     "time": 369,
-    "timeDay": 149,
-    "timeWeek": 1031,
-    "timeMonth": 566,
+    "timeDay": 308,
+    "timeWeek": 1032,
+    "timeMonth": 569,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2023-01-25": 59
