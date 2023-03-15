@@ -4,9 +4,9 @@
     "url": "https://namex.apps.silver.devops.gov.bc.ca/api/v1/nr-ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/namex.apps.silver.devops.gov.bc.ca.ico",
     "slug": "namex-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
@@ -16,6 +16,7 @@
     "timeMonth": 255,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2023-03-15": 0,
       "2023-01-25": 529,
       "2023-01-24": 1440,
       "2023-01-23": 200
@@ -26,9 +27,9 @@
     "url": "https://legal-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/legal-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "legal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -38,6 +39,7 @@
     "timeMonth": 400,
     "timeYear": 362,
     "dailyMinutesDown": {
+      "2023-03-15": 0,
       "2023-01-25": 60
     }
   },
@@ -46,9 +48,9 @@
     "url": "https://auth-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/auth-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "auth-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -58,6 +60,7 @@
     "timeMonth": 255,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2023-03-15": 0,
       "2023-01-25": 87
     }
   },
@@ -66,9 +69,9 @@
     "url": "https://pay-api.apps.silver.devops.gov.bc.ca/ops/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/pay-api.apps.silver.devops.gov.bc.ca.ico",
     "slug": "pay-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -78,6 +81,7 @@
     "timeMonth": 264,
     "timeYear": 338,
     "dailyMinutesDown": {
+      "2023-03-15": 0,
       "2023-01-31": 26,
       "2023-01-25": 59
     }
