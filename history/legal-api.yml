@@ -1,7 +1,7 @@
 url: https://legal-api.apps.silver.devops.gov.bc.ca/ops/healthz
 status: up
 code: 200
-responseTime: 484
-lastUpdated: 2023-06-06T23:11:56.798Z
+responseTime: 376
+lastUpdated: 2023-06-07T23:12:56.902Z
 startTime: Thu Oct 13 2022 16:47:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
